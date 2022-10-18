@@ -1,0 +1,40 @@
+ruby-mini-mime (1.1.1-1) unstable; urgency=medium
+
+  * Team Upload
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints.
+    + ruby-mini-mime: Add :any qualifier for ruby dependency.
+  * Update watch file format version to 4.
+
+  [ Pirate Praveen ]
+  * New upstream version 1.1.1
+  * Bump Standards-Version to 4.6.0 (no changes needed)
+
+ -- Pirate Praveen <praveen@debian.org>  Tue, 07 Sep 2021 22:44:47 +0530
+
+ruby-mini-mime (1.0.2-1) unstable; urgency=medium
+
+  [ Utkarsh Gupta ]
+  * Add salsa-ci.yml
+
+  [ Debian Janitor ]
+  * Trim trailing whitespace.
+  * Bump debhelper from old 11 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update standards version to 4.4.1, no changes needed.
+
+  [ Lucas Kanashiro ]
+  * New upstream version 1.0.2
+  * Bump debhelper compatibility level to 13
+  * Declare compliance with Debian Policy 4.5.0
+
+ -- Lucas Kanashiro <kanashiro@debian.org>  Fri, 05 Jun 2020 22:31:19 -0300
+
+ruby-mini-mime (1.0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #918224)
+
+ -- Lucas Kanashiro <kanashiro@debian.org>  Fri, 04 Jan 2019 09:59:27 -0200
